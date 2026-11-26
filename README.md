@@ -1,4 +1,4 @@
-# Student Performance Prediction
+# Student- Performance- Prediction-analysis
 
 A Flask application that predicts student marks with a trained Random Forest
 regressor, saves prediction records in MySQL, and displays live student and
